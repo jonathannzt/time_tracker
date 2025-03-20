@@ -1,6 +1,6 @@
 # Time Tracker
 
-Ce projet permet de suivre le **temps passé** sur chaque application (processus) Windows, de sauvegarder les données dans une base SQLite, et de générer des rapports **graphiques** via une interface Tkinter. C'est un projet personnel 
+Ce projet permet de suivre le **temps passé** sur chaque application (processus) Windows, de sauvegarder les données dans une base SQLite, et de générer des rapports **graphiques** via une interface Tkinter. C'est un projet a but personnel dans l'objectif de prendre en compétences.
 
 ## Fonctionnalités
 
